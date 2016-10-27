@@ -1,1 +1,2 @@
-1. 
+1. When would you want to use a remote repository rather than keeping all your work local?
+Collaborating with people would be one good use case--everyone has access to the project files and can make changes on their own computers but then upload it to the github repo. It's also better for sharing projects publicly. Remote repos also make for backups if your computer explodes.
