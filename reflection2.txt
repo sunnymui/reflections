@@ -6,3 +6,6 @@ the staging area just holds files that will be committed in the commit command. 
 
 3.  How can you use the staging area to make sure you have one commit per logical change?
 you can add just the files that are modified for each logical change, even while continuing to work. then commit and stage again for new changes.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when you experiment with new features or maybe make slightly different variations of an official version of a project (like different languages or maybe different color schemes). Branches keep things organized by letting you work on changes that are separate from the main version of the project without polluting your main code with other stuff.
