@@ -1,0 +1,2 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+git adds metadata about the stuff in the repo to track changes. you need to initialize a repo to tell git to start tracking the directory.
