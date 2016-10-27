@@ -9,3 +9,6 @@ you can add just the files that are modified for each logical change, even while
 
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 when you experiment with new features or maybe make slightly different variations of an official version of a project (like different languages or maybe different color schemes). Branches keep things organized by letting you work on changes that are separate from the main version of the project without polluting your main code with other stuff.
+
+5. How do the diagrams help you visualize the branch structure?
+the diagrams help me know where i am in the branch structure by letting me see how each commit is related to each other. it helps understand what a detached head is and how it's not on any branch and unreachable until it's added as a branch.
