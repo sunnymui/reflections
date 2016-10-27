@@ -15,3 +15,6 @@ the diagrams help me know where i am in the branch structure by letting me see h
 
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 all of the commits are added together automatically and organized by timestamp. the merge commit has 2 parents though from the old branches. it makes it all on one branch but it keeps the old branches until you delete them.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+gits auto merging saves time but if it merged conflicts automatically it would make mistakes for sure. doing it manually each time may eliminate mistakes but it would take astronomically long to merge all the commits.
