@@ -12,3 +12,6 @@ when you experiment with new features or maybe make slightly different variation
 
 5. How do the diagrams help you visualize the branch structure?
 the diagrams help me know where i am in the branch structure by letting me see how each commit is related to each other. it helps understand what a detached head is and how it's not on any branch and unreachable until it's added as a branch.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+all of the commits are added together automatically and organized by timestamp. the merge commit has 2 parents though from the old branches. it makes it all on one branch but it keeps the old branches until you delete them.
