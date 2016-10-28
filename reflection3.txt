@@ -6,3 +6,6 @@ There may be changes in the remote on Github that would mess up what you are wor
 
 3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks are clones on github of other people's repo's that credit the original author. Clones are copies of the repo on github downloaded to your local machine. Branches are groups of commits in the same repo that let you work on a project without having your working code interfering with your solid production code.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+In case you lose internet access you won't have lost your copy of the repo. You can continute to work on it offline.
