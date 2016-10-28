@@ -9,3 +9,6 @@ Forks are clones on github of other people's repo's that credit the original aut
 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 In case you lose internet access you won't have lost your copy of the repo. You can continute to work on it offline.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+If I could, I would just do in person meetings with the same code. I could also do a really long complicated email chain or share files via dropbox. It definitely wouldn't have the same versioning robustness and collaboration tools.
