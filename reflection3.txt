@@ -12,3 +12,6 @@ In case you lose internet access you won't have lost your copy of the repo. You 
 
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 If I could, I would just do in person meetings with the same code. I could also do a really long complicated email chain or share files via dropbox. It definitely wouldn't have the same versioning robustness and collaboration tools.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A separate branch lets you compartmentalize your changes and create pull requests when collaborating with others so they can review your changes before adding them to the master branch. This can help prevent problems when making changes to the master. This also puts responsibility on the pull requestor to resolve any merge conflicts before the branch merges into master. It may be a bit less work to just make changes directly into master, but the risk of breaking something is higher and the project could get away from your control quickly.
